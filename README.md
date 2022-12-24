@@ -1,4 +1,4 @@
-> Note: All ServerDataBuilder Class Is Static.
+> Note: ServerDataBuilder Class Is Static.
 
 + Class: ServerDataBuilder
 	- Method: GetInfo
