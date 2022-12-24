@@ -1,0 +1,12 @@
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\obj\Debug\net6.0\ServerDataSharper.csproj.AssemblyReference.cache
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\obj\Debug\net6.0\ServerDataSharper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\obj\Debug\net6.0\ServerDataSharper.AssemblyInfoInputs.cache
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\obj\Debug\net6.0\ServerDataSharper.AssemblyInfo.cs
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\obj\Debug\net6.0\ServerDataSharper.csproj.CoreCompileInputs.cache
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\bin\Debug\net6.0\ServerDataSharper.deps.json
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\bin\Debug\net6.0\ServerDataSharper.dll
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\bin\Debug\net6.0\ServerDataSharper.pdb
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\obj\Debug\net6.0\ServerDataSharper.dll
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\obj\Debug\net6.0\refint\ServerDataSharper.dll
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\obj\Debug\net6.0\ServerDataSharper.pdb
+C:\Users\Iliya.Asghari\Desktop\Server Data\ServerDataSharper\obj\Debug\net6.0\ref\ServerDataSharper.dll
